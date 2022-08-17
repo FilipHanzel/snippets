@@ -1,0 +1,11 @@
+[DEFAULT]
+name=some_name
+password=abc
+
+[profile_a]
+name=some_other_name
+password=123
+
+[profile_b]
+name=some_fun_name
+password=abc123

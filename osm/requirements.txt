@@ -3,3 +3,4 @@ osmnx
 networkx
 python-igraph
 requests
+matplotlib

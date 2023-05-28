@@ -2,3 +2,4 @@ ipykernel
 osmnx
 networkx
 python-igraph
+requests

@@ -1,6 +1,6 @@
 import os
-from configparser import ConfigParser, DEFAULTSECT
-from typing import List, Union, Dict
+from configparser import DEFAULTSECT, ConfigParser
+from typing import Dict, List, Union
 
 
 class ConfigReader:

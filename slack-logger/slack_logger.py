@@ -1,9 +1,10 @@
-import sys
 import json
-import requests
+import sys
 import traceback
 from types import TracebackType
 from typing import Type
+
+import requests
 
 
 class SlackLogger:

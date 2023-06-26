@@ -8,6 +8,6 @@ if __name__ == "__main__":
     for root, *_ in os.walk(os.getcwd()):
         if root.endswith("__pycache__") and "venv" not in root:
             pycache_dirs.append(root)
-    
+
     for pycache_dir in pycache_dirs:
         shutil.rmtree(pycache_dir)
